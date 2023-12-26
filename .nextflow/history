@@ -13,3 +13,4 @@
 2023-12-26 20:32:36	5s	spontaneous_maxwell	ERR	c4bafc53bf792409e85cf6774beced29	50240c9f-a8f1-43ff-874c-05000500e2d7	nextflow run get_bed.nf
 2023-12-26 20:33:06	5.5s	happy_yalow	OK	2071562f1a8e5d70f09525b5cbc34278	14c5453f-3c98-458c-be22-7592d9d5caba	nextflow run get_bed.nf
 2023-12-26 20:34:36	3.8s	ecstatic_feynman	OK	2071562f1a8e5d70f09525b5cbc34278	7b136320-9be6-4d41-95a0-444fba71c4f6	nextflow run get_bed.nf
+2023-12-26 20:49:54	6.3s	disturbed_knuth	OK	2071562f1a8e5d70f09525b5cbc34278	0856d15c-e365-4059-8865-5f09e4ca7aa9	nextflow run get_bed.nf
