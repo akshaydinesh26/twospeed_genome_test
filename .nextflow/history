@@ -1,0 +1,15 @@
+2023-12-26 19:21:07	-	fervent_magritte	-	5a45d8dc714165a65394edd1894c78cd	211f4bb2-b5ca-4a86-972e-8f5b0be21338	nextflow run get_bed.nf
+2023-12-26 19:22:47	-	wise_blackwell	-	7a7880390c628c92bfada34b53249667	8dc0d5f5-1ebf-4f10-bab0-35de8e4a13c4	nextflow run get_bed.nf
+2023-12-26 19:23:32	3.2s	insane_goldwasser	ERR	93ae06d02740ad0ee3d7594841ed821f	099128f2-9dff-42f7-b5e9-96fb913cfedf	nextflow run get_bed.nf
+2023-12-26 19:26:19	3s	backstabbing_meninsky	ERR	aba7ba37f09b882136e633dfa4b5a42a	b57ea710-d461-4942-97c8-27606483b4a1	nextflow run get_bed.nf
+2023-12-26 19:35:37	2.4s	adoring_wing	OK	3d29be79c07e384d2340685a6446c02b	8fc96746-0d06-49cd-bc19-99556bb4c5dc	nextflow run get_bed.nf
+2023-12-26 19:36:33	1.9s	curious_brazil	OK	fd4991fb2432875afd98b44154c6d5cd	1c6b9437-e8cd-49db-9960-5667b034b567	nextflow run get_bed.nf
+2023-12-26 19:39:32	2.2s	extravagant_bartik	OK	2e0ba8a9e5ecc2a7b5f8f615558ced75	147f7f35-5ed6-4f26-8a95-e4932a45fdcf	nextflow run get_bed.nf
+2023-12-26 20:11:57	2.2s	goofy_magritte	OK	0951d77152ed97917f14389b5c17542e	5a34274b-bad1-4f0a-9633-1bf2519b6ffb	nextflow run get_bed.nf
+2023-12-26 20:12:21	3.6s	distracted_feynman	ERR	ae0bf4586954d813d1b60e1c7548ca6f	96b0a8b6-7b3b-4dc3-9dd4-1b3134b19175	nextflow run get_bed.nf
+2023-12-26 20:13:48	3.4s	compassionate_boyd	ERR	ae0bf4586954d813d1b60e1c7548ca6f	0b562803-7312-4d73-97de-2481a71ad935	nextflow run get_bed.nf
+2023-12-26 20:30:36	4.5s	small_lamport	ERR	a2a1c32968f2d2b7a2177e1c3745e1c2	f4cbadb8-98e2-4682-9cc6-9bc1624183c7	nextflow run get_bed.nf
+2023-12-26 20:31:34	6.6s	zen_booth	OK	1ec130edfec446f693a29f095c8ee7d2	5b6addb4-032c-4773-b5b1-007ad5b944fb	nextflow run get_bed.nf
+2023-12-26 20:32:36	5s	spontaneous_maxwell	ERR	c4bafc53bf792409e85cf6774beced29	50240c9f-a8f1-43ff-874c-05000500e2d7	nextflow run get_bed.nf
+2023-12-26 20:33:06	5.5s	happy_yalow	OK	2071562f1a8e5d70f09525b5cbc34278	14c5453f-3c98-458c-be22-7592d9d5caba	nextflow run get_bed.nf
+2023-12-26 20:34:36	3.8s	ecstatic_feynman	OK	2071562f1a8e5d70f09525b5cbc34278	7b136320-9be6-4d41-95a0-444fba71c4f6	nextflow run get_bed.nf
